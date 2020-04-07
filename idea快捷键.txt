@@ -1,0 +1,14 @@
+ctrl+fn+f12 唤出当前类的所有方法
+shift双击 在idea全局查找
+alt+7  唤出struct
+ctrl+h 换出当前类的层级  看他的子类
+ctrl+alt+u 唤出对象关系树状图
+ctrl+p 弹出要传的参数
+ctrl+空格 弹出输入提示
+ctrl+i 弹出所有未实现的方法
+ctrl+G 快速跳转到某一行
+cyrl+shift+n 找到字段对应的类
+ctrl+shift+r 全局修改
+ctrl+Alt+B 看子类  通过查询子类，来自定义实现自己需要的子类
+
+
